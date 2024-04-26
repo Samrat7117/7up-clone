@@ -44,6 +44,9 @@ a {
   padding: 10px;
   margin-right: 10px;
 }
+.right_nav a:hover{
+  color:#003922;
+}
 .three_line {
   width: 100%;
   height: 11.5rem;
